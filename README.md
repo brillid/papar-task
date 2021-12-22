@@ -1,1 +1,5 @@
-# papar-task
+# Papar task
+
+### Usage
+
+`php task.php`
